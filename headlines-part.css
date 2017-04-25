@@ -1,0 +1,16 @@
+
+ .headlines-part{
+     padding: 25px;
+     color: #9b9999;
+     position: relative;
+     width: 100%;
+     background-color: #f6f6f6;
+ }
+
+ .headlines-part A{
+     color: #59a3fc;
+ }
+
+  .headlines-part A:hover{
+     color: #408ae3;
+ }

@@ -1,0 +1,64 @@
+ .top-part{
+
+     position: relative;
+     background-color: #59a3fc;
+     background-image: url("img/Hero-Header.png");
+     background-size: cover;
+     width: 100%;
+     height: 1000px;
+     color: white;
+     text-align: center;
+     font-size: 110%;
+
+ }
+
+ .top-part-text{
+ position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 50%;
+    width: 50%;
+    margin: -15% 0 0 -25%;
+
+ }
+
+ .top-part .btn-outline-info{
+
+    background-color: #59a3fc;
+    background: none;
+    padding: 12px 22px;
+     border: 2px solid white;
+	color: white;
+     font-weight: bold;
+
+
+}
+
+  .top-part .btn-outline-info:hover{
+	background-color: white;
+    border-color: #59a3fc;
+	color: #59a3fc;
+	box-shadow: none;
+      font-weight: bold;
+}
+
+.top-part-text1{
+    font-size: 350%;
+    font-weight: normal;
+
+}
+
+.top-part-text2{
+    color: #c7e2f3;
+    font-size: 110%;
+}
+
+
+ .green_segment {
+    background-color: white;
+    width: 60px;
+    height: 5px;
+    margin: 25px 0;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,27 @@
+
+
+ .video-part{
+    padding-top: 50px;
+
+     position: relative;
+     width: 100%;
+    color: #9b9999;
+     background-color: #f6f6f6;
+ }
+
+
+.video-responsive {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow:hidden;
+}
+.video-responsive iframe,
+.video-responsive object,
+.video-responsive embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70%;
+  height: 70%;
+}

@@ -1,0 +1,81 @@
+
+
+html, body {
+    height: 100%;
+    max-height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+    color: #99999b;
+    link: black;
+    line-height: 2;
+
+}
+
+A {
+    color: #7f7f7f;
+}
+
+A:hover{
+    text-decoration: none;
+}
+
+
+ .top-container{
+     width: 100%;
+ }
+
+
+
+ .image-part{
+     padding-bottom: 50px;
+     padding-top: 20px;
+     color: #999;
+     position: relative;
+     width: 100%;
+     text-align: center;
+     background-color: white;
+ }
+
+
+
+ .form-part{
+     padding: 50px;
+     position: relative;
+     width: 100%;
+    color: #a4a9a9;
+     background-color: white;
+ }
+
+ .footer1{
+
+     padding: 10px;
+    font-weight: bold;
+    color: #96c5e8;
+    height: 80px;
+     width: 100%;
+    background-color: #408ae3;
+    }
+
+ .logo-part{
+     padding: 20px;
+ }
+
+ .text-black{
+     color: black;
+     font-weight: bold;
+ }
+
+.img-pad{
+    padding-top: 30px;
+}
+
+.btn-info{
+background-color: #59a3fc;
+     color: white;
+}
+
+.btn-info:hover {
+    background-color: #408ae3;
+}
+
+
