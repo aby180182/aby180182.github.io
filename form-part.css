@@ -1,0 +1,23 @@
+
+
+
+ .form-part{
+     padding: 50px;
+     position: relative;
+     width: 100%;
+    color: #a4a9a9;
+     background-color: white;
+ }
+
+ .panel-body{
+     background-color: #ebeaea;
+ }
+
+ .panel-footer{
+     background-color: #dddddd;
+ }
+
+ .form-footer-text{
+     color: #808080;
+     font-size: 90%;
+ }
