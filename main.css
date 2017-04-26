@@ -37,18 +37,9 @@ A:hover{
  }
 
 
-
- .form-part{
-     padding: 50px;
-     position: relative;
-     width: 100%;
-    color: #a4a9a9;
-     background-color: white;
- }
-
  .footer1{
 
-     padding: 10px;
+     padding: 20px;
     font-weight: bold;
     color: #96c5e8;
     height: 80px;
@@ -80,4 +71,11 @@ background-color: #59a3fc;
     background-color: #408ae3;
 }
 
+.size115-text{
+    font-size: 115%;
+}
 
+
+.bg-carousel{
+    background-color: green;
+}
