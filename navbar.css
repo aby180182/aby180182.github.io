@@ -32,9 +32,4 @@
  .navbar .btn-info:hover {
      background-color: #408ae3;
  }
- .navbar .btn-info:focus{
-     outline: none;
- }
-  .navbar .btn-info:active{
-     outline: none;
- }
+
