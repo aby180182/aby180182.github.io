@@ -3,11 +3,13 @@
      padding: 10px;
     color: black;
     font-family: 'Open Sans', sans-serif;
-    #height: 80px;
+    height: 80px;
     background-color: white;
     }
 
-
+ .navbar-nav{
+    padding-top: 15px;
+ }
 
  .navbar A{
      color: #7f7f7f;
@@ -30,4 +32,9 @@
  .navbar .btn-info:hover {
      background-color: #408ae3;
  }
-
+ .navbar .btn-info:focus{
+     outline: none;
+ }
+  .navbar .btn-info:active{
+     outline: none;
+ }
